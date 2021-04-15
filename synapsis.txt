@@ -1,0 +1,11 @@
+This is a simple but useful To-do list app made with using HTML,CSS,JavaScript & jQuery.
+The application mainly uses the jquery methods to show the functionality.
+
+This project is submitted to:				Submitted by:
+Prof. Ekta Shrivastava					Sudhanshu Pathak
+Department of Information Technology			Enrollment no. - 0101IT181059
+							Vritant Singh Bamaniya
+							0101IT181064
+
+
+ 
